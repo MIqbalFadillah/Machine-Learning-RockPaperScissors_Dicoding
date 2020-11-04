@@ -1,7 +1,7 @@
 # Machine-Learning-RockPaperScissors_Dicoding
 
 Tugas ini dibuat untuk menyelasaikan submission pada platform online Course Dicoding...
-\nDilarang Keras Copy Paste Tanpa Mengerti Setiap Baris Codenya.
+<p>Dilarang Keras Copy Paste Tanpa Mengerti Setiap Baris Codenya.</p>
 
 
 ## Prerequisite
