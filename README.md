@@ -5,6 +5,7 @@ Tugas ini dibuat untuk menyelasaikan submission pada platform online Course Dico
 
 
 ## Prerequisite
+- Python Languange
 - TensorFlow
 - Keras Library
 - Image Generator
